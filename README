@@ -16,5 +16,5 @@ Instructions
     Point it to the location of the source
  5) Now Project-> Clean
  6) Run the project
-PS: The came wont run on the Android Emulator and can run on any phone with OpenGL-ES 2.0+
+PS: The game wont run on the Android Emulator and can run on any phone with OpenGL-ES 2.0+
 
