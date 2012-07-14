@@ -1,0 +1,20 @@
+Collide (com.invader.collide)
+==========================
+This is an fun Puzzle/Simulation game using accelerometer for Android. You can download the game on Google Play. 
+Link: https://play.google.com/store/apps/details?id=com.invader.collide
+
+The source code is under GPL license and a copy of it is attached as LICENSE.txt
+
+Compile
+==========================
+Instructions
+ 1) Download android SDK 2.2+ (or API 8 and above)
+ 2) Checkout the code
+ 3) Open Eclipse
+ 4) File -> New -> Android Project
+    Check "Create from existing Source"
+    Point it to the location of the source
+ 5) Now Project-> Clean
+ 6) Run the project
+PS: The came wont run on the Android Emulator and can run on any phone with OpenGL-ES 2.0+
+
